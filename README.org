@@ -1,0 +1,10 @@
+* reblocks-parenscript
+
+An utility to define JavaScript dependencies for Reblocks widgets
+using Parenscript.
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/40ants/reblocks-parenscript.git |
+| commit  | 2f8983d                                                |
+| systems | reblocks-parenscript                                   |
+|---------+--------------------------------------------------------|
