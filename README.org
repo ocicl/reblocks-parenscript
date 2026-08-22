@@ -5,7 +5,7 @@ using Parenscript.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://github.com/40ants/reblocks-parenscript.git |
-| commit  | 2f8983d                                                |
+| commit  | abe7739                                                |
 | systems | reblocks-parenscript                                   |
 |---------+--------------------------------------------------------|
    
